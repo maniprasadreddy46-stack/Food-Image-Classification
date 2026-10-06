@@ -1,0 +1,16 @@
+INDIAN FOOD IMAGE CLASSIFICATION
+======================================================================
+
+Model               : EfficientNetB0
+Number of classes   : 80
+Training images     : 2720
+Validation images   : 640
+Test images         : 640
+
+Validation accuracy : 65.16%
+Test accuracy       : 60.78%
+Test loss           : 1.6996
+
+Biryani test images: 8
+Biryani correct     : 7
+Biryani accuracy    : 87.50%

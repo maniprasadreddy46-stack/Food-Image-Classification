@@ -1,0 +1,106 @@
+FOOD IMAGE CLASSIFICATION - EVALUATION SUMMARY
+======================================================================
+
+Number of classes : 80
+Test images       : 640
+Test loss         : 5.4480
+Test accuracy     : 1.25%
+Calculated accuracy: 1.25%
+
+BIRYANI RESULTS
+----------------------------------------------------------------------
+Biryani index     : 12
+Biryani test images: 8
+Biryani correct   : 0
+Biryani accuracy  : 0.00%
+
+BEST CLASS
+----------------------------------------------------------------------
+boondi : 100.00% (8/8)
+
+WORST CLASS
+----------------------------------------------------------------------
+adhirasam : 0.00% (0/8)
+
+PER-CLASS ACCURACY
+----------------------------------------------------------------------
+adhirasam                        0.00% (0/8)
+aloo_gobi                        0.00% (0/8)
+aloo_matar                       0.00% (0/8)
+aloo_methi                       0.00% (0/8)
+aloo_shimla_mirch                0.00% (0/8)
+aloo_tikki                       0.00% (0/8)
+anarsa                           0.00% (0/8)
+ariselu                          0.00% (0/8)
+bandar_laddu                     0.00% (0/8)
+basundi                          0.00% (0/8)
+bhatura                          0.00% (0/8)
+bhindi_masala                    0.00% (0/8)
+biryani                          0.00% (0/8)
+butter_chicken                   0.00% (0/8)
+chak_hao_kheer                   0.00% (0/8)
+cham_cham                        0.00% (0/8)
+chana_masala                     0.00% (0/8)
+chapati                          0.00% (0/8)
+chhena_kheeri                    0.00% (0/8)
+chicken_razala                   0.00% (0/8)
+chicken_tikka                    0.00% (0/8)
+chicken_tikka_masala             0.00% (0/8)
+chikki                           0.00% (0/8)
+daal_baati_churma                0.00% (0/8)
+daal_puri                        0.00% (0/8)
+dal_makhani                      0.00% (0/8)
+dal_tadka                        0.00% (0/8)
+dharwad_pedha                    0.00% (0/8)
+doodhpak                         0.00% (0/8)
+double_ka_meetha                 0.00% (0/8)
+dum_aloo                         0.00% (0/8)
+gajar_ka_halwa                   0.00% (0/8)
+gavvalu                          0.00% (0/8)
+ghevar                           0.00% (0/8)
+gulab_jamun                      0.00% (0/8)
+imarti                           0.00% (0/8)
+jalebi                           0.00% (0/8)
+kachori                          0.00% (0/8)
+kadai_paneer                     0.00% (0/8)
+kadhi_pakoda                     0.00% (0/8)
+kajjikaya                        0.00% (0/8)
+kakinada_khaja                   0.00% (0/8)
+kalakand                         0.00% (0/8)
+karela_bharta                    0.00% (0/8)
+kofta                            0.00% (0/8)
+kuzhi_paniyaram                  0.00% (0/8)
+lassi                            0.00% (0/8)
+ledikeni                         0.00% (0/8)
+litti_chokha                     0.00% (0/8)
+lyangcha                         0.00% (0/8)
+maach_jhol                       0.00% (0/8)
+makki_di_roti_sarson_da_saag     0.00% (0/8)
+malapua                          0.00% (0/8)
+misi_roti                        0.00% (0/8)
+misti_doi                        0.00% (0/8)
+modak                            0.00% (0/8)
+mysore_pak                       0.00% (0/8)
+naan                             0.00% (0/8)
+navrattan_korma                  0.00% (0/8)
+palak_paneer                     0.00% (0/8)
+paneer_butter_masala             0.00% (0/8)
+phirni                           0.00% (0/8)
+pithe                            0.00% (0/8)
+poha                             0.00% (0/8)
+poornalu                         0.00% (0/8)
+pootharekulu                     0.00% (0/8)
+qubani_ka_meetha                 0.00% (0/8)
+rabri                            0.00% (0/8)
+ras_malai                        0.00% (0/8)
+rasgulla                         0.00% (0/8)
+sandesh                          0.00% (0/8)
+shankarpali                      0.00% (0/8)
+sheer_korma                      0.00% (0/8)
+sheera                           0.00% (0/8)
+shrikhand                        0.00% (0/8)
+sohan_halwa                      0.00% (0/8)
+sohan_papdi                      0.00% (0/8)
+sutar_feni                       0.00% (0/8)
+unni_appam                       0.00% (0/8)
+boondi                         100.00% (8/8)
